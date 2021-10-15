@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/TenCoreTask2/static/css/main.c9bc2722.chunk.css",
+    "main.js": "/TenCoreTask2/static/js/main.9f6c818b.chunk.js",
+    "main.js.map": "/TenCoreTask2/static/js/main.9f6c818b.chunk.js.map",
+    "runtime-main.js": "/TenCoreTask2/static/js/runtime-main.c8d6bf48.js",
+    "runtime-main.js.map": "/TenCoreTask2/static/js/runtime-main.c8d6bf48.js.map",
+    "static/js/2.4c996223.chunk.js": "/TenCoreTask2/static/js/2.4c996223.chunk.js",
+    "static/js/2.4c996223.chunk.js.map": "/TenCoreTask2/static/js/2.4c996223.chunk.js.map",
+    "static/js/3.213b1125.chunk.js": "/TenCoreTask2/static/js/3.213b1125.chunk.js",
+    "static/js/3.213b1125.chunk.js.map": "/TenCoreTask2/static/js/3.213b1125.chunk.js.map",
+    "index.html": "/TenCoreTask2/index.html",
+    "static/css/main.c9bc2722.chunk.css.map": "/TenCoreTask2/static/css/main.c9bc2722.chunk.css.map",
+    "static/js/2.4c996223.chunk.js.LICENSE.txt": "/TenCoreTask2/static/js/2.4c996223.chunk.js.LICENSE.txt",
+    "static/media/img1.05ee22fa.jpg": "/TenCoreTask2/static/media/img1.05ee22fa.jpg",
+    "static/media/img1.bfd774b5.png": "/TenCoreTask2/static/media/img1.bfd774b5.png",
+    "static/media/img2.0a30b274.png": "/TenCoreTask2/static/media/img2.0a30b274.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8d6bf48.js",
+    "static/js/2.4c996223.chunk.js",
+    "static/css/main.c9bc2722.chunk.css",
+    "static/js/main.9f6c818b.chunk.js"
+  ]
+}
