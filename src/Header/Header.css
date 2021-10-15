@@ -1,0 +1,26 @@
+.header {
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+    height: 13rem;
+}
+
+.head_up {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.head_div {
+    display: flex;
+    height: 13rem;
+}
+
+.head_right {
+    justify-content: flex-end;
+}
+
+.head_down {
+    position: absolute;
+    width: 100vw;
+    top: 10rem
+}

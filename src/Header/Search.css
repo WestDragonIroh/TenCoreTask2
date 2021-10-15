@@ -1,0 +1,114 @@
+.B0 {
+    margin-top: 0.6rem;
+    margin-right: 2.3rem;
+    width: 27.3rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.B1 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    place-items: center;
+    padding: 1rem;
+    font-size: 1.3rem;
+}
+
+.B2 {
+    margin-left: 2.7rem;
+}
+
+.B3 {
+    background-color: #f01313;
+    color: black;
+    display: grid;
+    place-items: center;
+    width: 7.2rem;
+    height: 2.8rem;
+    border-radius: 1.5rem;
+}
+
+.B3:hover {
+    color: white;
+    background-color: #3B456E;
+}
+
+.B4 a {
+    text-decoration: none;
+}
+
+.B5 {
+    border: 1px solid;
+    box-shadow: 0 0 0.3rem gray;
+    margin-right: 1rem;
+    display: flex;
+    flex-direction: row;
+    place-items: center;
+    height: 3rem;
+    width: 7rem;
+    text-decoration: none;
+}
+
+.B5 span{
+    color: #000000;
+}
+
+.B5 span:nth-child(1) {
+    margin: 1.5rem 0rem 1rem 1rem;
+    font-size: 1.7rem;
+    
+}
+
+.B5 span:nth-child(2) {
+    margin: 1rem 0.5rem 1rem 0.5rem;
+    font-size: 1rem;
+}
+
+.B5:hover span:nth-child(2) {
+    color: #BFBFBF;
+}
+
+.B6 {
+    background-color: black;
+    height: 3rem;
+    border-radius: 1.5rem;
+    color: white;
+    display: flex;
+    flex-direction: row;
+}
+
+.B6 input {
+    height: 3rem;
+    border-radius: 1.5rem;
+    margin-left: 1rem;
+    width: 85%;
+    font-size: 1rem;
+    color: white;
+    background-color: black;
+    border: none;
+}
+
+.B6 input:focus {
+    outline: none;
+}
+
+.B6 input::placeholder {
+    color: white;
+}
+
+.B6 svg {
+    display: block;
+    margin-left: 1rem;
+    margin-top: 0.7rem;
+    font-size: 1.5rem;
+    cursor: pointer;
+}
+
+.B6:hover , .B6:hover input {
+    color: #000;
+    background-color: #FFE4EC;
+}
+
+.B6:hover , .B6:hover input::placeholder {
+    color: black;
+}

@@ -1,0 +1,62 @@
+.G0 {
+    display: flex;
+    flex-direction: column;
+    margin: 2rem auto; 
+    width: 90vw;
+}
+
+.G1 {
+    width: 90vw;
+    margin: 0;
+}
+
+.G1 img {
+    width: 90vw;
+    height: auto;
+}
+
+.G2 {
+    display: flex;
+    flex-direction: row;
+    margin: 0 auto;
+    margin-top: 2rem;
+    width: 90vw;
+}
+
+.G2 img {
+    width: 70%;
+    height: auto;
+}
+
+.G3 {
+    height: inherit;
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    background-color: #d8053f;
+    padding: 2rem;
+    padding-bottom: 4rem;
+    text-align: center;
+}
+
+.G3 a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.G3 a h2 {
+    display: grid;
+    place-items: center;
+    background-color: #0d0004;
+    width: 70%;
+    height: 4rem;
+    margin: 0 auto;
+    border-radius: 2rem;
+    font-size: 1.25rem;
+    font-weight: unset;
+}
+
+.G3 a h2:hover {
+    background-color: #FF5050;
+}

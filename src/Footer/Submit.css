@@ -1,0 +1,44 @@
+.F0 {
+    display: flex;
+    flex-direction: column;
+    width: 25rem;
+}
+
+.F1 {
+    font-size: 1.2rem;
+    display: grid;
+    place-items: center;
+}
+
+.F2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.F3 {
+    width: 10rem;
+    margin-top: 0.25rem;
+    height: 1rem;
+    padding: 1rem;
+}
+
+.F4 {
+    margin: 0.5rem 1rem;
+    font-style: italic;
+}
+
+.F5 {
+    margin: 0 auto;
+    margin-top: 0.5rem;
+    width: 10rem;
+    font-size: 1.2rem;
+    background-color: white;
+    border: 2px solid black;
+}
+
+.F5:hover {
+    background-color: #E3252A;
+    cursor: pointer;
+    transition: all 0.5s;
+}

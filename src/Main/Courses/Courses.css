@@ -1,0 +1,7 @@
+.H0 {
+    width: 90vw;
+    margin: 2rem auto;
+    display: grid;
+    grid-gap: 3vw;
+    grid-template-columns: repeat(auto-fill, minmax(24rem, 1fr));
+}
